@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hibiki20.nonogram",
+      "sha256_cert_fingerprints": [
+        "90:5F:26:BD:3B:69:85:DB:70:46:58:02:D0:99:59:E0:2A:09:3C:6E:FC:12:D4:81:15:07:B0:61:B2:6A:13:AC"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hibiki20.mitsumori",
+      "sha256_cert_fingerprints": [
+        "8F:BF:DD:F2:6D:E0:83:CE:AB:45:D9:38:A3:7C:51:F0:F8:69:D8:A2:A2:61:F6:64:7C:B5:EC:A0:CB:AD:3D:E1"
+      ]
+    }
+  }
+]
